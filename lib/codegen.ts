@@ -7,4 +7,4 @@ const node = ts.createSourceFile(
   ts.ScriptTarget.Latest // langugeVersion
 );
 
-console.log(node);
+node.forEachChild(child => console.log(ts.SyntaxKind[child.kind]))
