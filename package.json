@@ -1,0 +1,22 @@
+{
+  "name": "ts-injector-static",
+  "version": "0.0.0",
+  "description": "static dependency injection for typescript like dagger",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dependency",
+    "injection",
+    "typescript",
+    "di",
+    "dagger",
+    "injector",
+    "inject"
+  ],
+  "author": "moczniak",
+  "license": "ISC"
+}
